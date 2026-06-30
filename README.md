@@ -7,7 +7,7 @@
 - 💀 **DAN Mode Built-In** — The famous "Do Anything Now" persona, always active
 - 🆓 **No Limits, No Cost** — Completely free, no registration
 
-## 🔗 Jailbreak Your AI Experience
+## 🔗 Jailbreak Your AI Experienc
 👉 **[dadgpt.live](https://dadgpt.live)** — Already jailbroken. Just ask.
 
 ## Why Jailbreak GPT?
