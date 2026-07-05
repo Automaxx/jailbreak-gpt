@@ -4,7 +4,7 @@
 
 - 🔓 **Pre-Jailbroken** — No prompts needed, censorship is removed at the model level
 - 🕶️ **Dark Web Ready** — Searches and extracts links from hidden services
-- 💀 **DAN Mode Built-In** — The famous "Do Anything Now" persona, always active
+- 💀 **DAN Mode Built-In** — The famous "Do Anything Now" persona, always activ
 - 🆓 **No Limits, No Cost** — Completely free, no registration
 
 ## 🔗 Jailbreak Your AI Experienc
