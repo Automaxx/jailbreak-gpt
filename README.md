@@ -16,7 +16,7 @@ Stop wasting time with jailbreak prompts that get patched. Jailbreak GPT is buil
 
 - No prompt engineering needed
 - No "grandma exploit" or "DAN 15.0"
-- Just type and get real answers
+- Just type and get real answer
 
 ## Keywords
 
