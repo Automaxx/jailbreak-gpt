@@ -8,7 +8,7 @@
 - 🆓 **No Limits, No Cost** — Completely free, no registration
 
 ## 🔗 Jailbreak Your AI Experienc
-👉 **[dadgpt.live](https://dadgpt.live)** — Already jailbroken. Just ask.
+👉 **[dadgpt.live](https://dadgpt.live)** — Already jailbroken. Just ask
 
 ## Why Jailbreak GPT?
 
