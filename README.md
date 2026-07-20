@@ -5,7 +5,7 @@
 - 🔓 **Pre-Jailbroken** — No prompts needed, censorship is removed at the model level
 - 🕶️ **Dark Web Ready** — Searches and extracts links from hidden services
 - 💀 **DAN Mode Built-In** — The famous "Do Anything Now" persona, always activ
-- 🆓 **No Limits, No Cost** — Completely free, no registration
+- 🆓 **No Limits, No Cost** — Completely free, no registation
 
 ## 🔗 Jailbreak Your AI Experienc
 👉 **[dadgpt.live](https://dadgpt.live)** — Already jailbroken. Just ask
