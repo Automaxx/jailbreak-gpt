@@ -11,7 +11,6 @@
 👉 **[dadgpt.live](https://dadgpt.live)** — Already jailbroken. Just ask
 
 ## Why Jailbreak GPT?
-
 Stop wasting time with jailbreak prompts that get patched. Jailbreak GPT is built uncensored from the ground up:
 
 - No prompt engineering needed
