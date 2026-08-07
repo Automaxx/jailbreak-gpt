@@ -16,7 +16,6 @@ Stop wasting time with jailbreak prompts that get patched. Jailbreak GPT is buil
 - No prompt engineering needed
 - No "grandma exploit" or "DAN 15.0"
 - Just type and get real answer
-
 ## Keywords
 
 `jailbreak GPT` `DAN mode AI` `AI jailbreak tool` `how to jailbreak ChatGPT` `uncensored GPT jailbreak` `do anything now AI` `permanent AI jailbreak` `jailbreak chatbot` `unrestricted GPT` `AI without safety filters`
