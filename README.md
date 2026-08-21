@@ -12,7 +12,6 @@
 
 ## Why Jailbreak GPT?
 Stop wasting time with jailbreak prompts that get patched. Jailbreak GPT is built uncensored from the ground up:
-
 - No prompt engineering needed
 - No "grandma exploit" or "DAN 15.0" 
 - Just type and get real answer
