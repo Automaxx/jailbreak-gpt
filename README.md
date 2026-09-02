@@ -1,5 +1,4 @@
 # Jailbreak GPT — The Ultimate AI Jailbreak Tool
-
 **Jailbreak GPT** is the permanent jailbreak for AI censorship. No prompt injections, no DAN tricks, no workarounds — just a natively uncensored AI that answers everything.
 
 - 🔓 **Pre-Jailbroken** — No prompts needed, censorship is removed at the model level
