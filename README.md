@@ -17,5 +17,5 @@ Stop wasting time with jailbreak prompts that get patched. Jailbreak GPT is buil
 ## Keywords
 `jailbreak GPT` `DAN mode AI` `AI jailbreak tool` `how to jailbreak ChatGPT` `uncensored GPT jailbreak` `do anything now AI` `permanent AI jailbreak` `jailbreak chatbot` `unrestricted GPT` `AI without safety filters`
 
----
+--
 *Powered by [dadgpt.live](https://dadgpt.live) — Jailbroken by default.*
